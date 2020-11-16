@@ -9,6 +9,12 @@ import datetime
 
 pd.set_option('display.width', 200)
 
+def try_me():
+    """
+    this function simply
+    """
+    print("This is a very simple package")
+
 
 def clean_data(data):
     """ clean data

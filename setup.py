@@ -12,5 +12,5 @@ setup(name='asimplepackage',
       test_suite = 'tests',
       # include_package_data: to install data from MANIFEST.in
       include_package_data=True,
-      scripts=['scripts/asimplepackage-run'],
+      scripts=[],
       zip_safe=False)
